@@ -4,6 +4,8 @@ This Kibana plugin enables you to configure field formatters for arrays of objec
 
 ![Screenshot](images/demo.gif)
 
+**Adjusted package.json to build the plugin for Kibana version 6.7.1 by mreyes 2019-08-26**
+
 ---
 
 ## Features
